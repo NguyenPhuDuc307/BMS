@@ -32,7 +32,7 @@ Icon
 .DocumentRevisions-V100
 .fseventsd
 .Spotlight-V100
-.TemporaryItems
+.TemporaryItBMS
 .Trashes
 .VolumeIcon.icns
 .com.apple.timemachine.donotpresent
@@ -41,7 +41,7 @@ Icon
 .AppleDB
 .AppleDesktop
 Network Trash Folder
-Temporary Items
+Temporary ItBMS
 .apdisk
 
 # content below from: https://github.com/github/gitignore/blob/main/Global/Windows.gitignore
